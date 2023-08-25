@@ -28,7 +28,7 @@ flight_table.add_entry("P87", "NotePad", 23, "Low")
 
 while True:
     print("\nSorting Options:")
-    print("1. Sort by P_ID")
+    print("1. Sort by PID")
     print("2. Sort by Start Time")
     print("3. Sort by Priority")
     print("4. Quit")
